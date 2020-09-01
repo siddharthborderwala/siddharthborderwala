@@ -13,7 +13,7 @@
 #### Current Interests 😄
 - Learning **[Typescript](https://typescriptlang.org)**
 - Learning **Discrete Mathematics**
-- Want to learn **[Nodejs](https://nodejs.org)** and **[GraphQL](https://graphql.org)**
+- Learning **[Nodejs](https://nodejs.org)** and **[GraphQL](https://graphql.org)**
 
 #### Reach Me 📫
 - Mail: [Gmail](mailto:siddharthborderwala@gmail.com)
