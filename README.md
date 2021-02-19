@@ -15,7 +15,7 @@
 - **[Rust](https://rust-lang.org)**
 - **[GraphQL](https://graphql.org)**
 - **[Prisma](https://prisma.io)**
-- **Graph Theorh**
+- **Graph Theory**
 
 #### Learning 📓
 - Probability and Statistics with Reliability, Queuing and Computer Science Applications
