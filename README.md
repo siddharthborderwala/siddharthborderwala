@@ -12,11 +12,12 @@
 
 #### Current Interests 😄
 - **[Typescript](https://typescriptlang.org)**
+- **[Rust](https://rust-lang.org)**
 - **[GraphQL](https://graphql.org)**
 - **[Prisma](https://prisma.io)**
 - **Graph Theorh**
 
-### Learning 📓
+#### Learning 📓
 - Probability and Statistics with Reliability, Queuing and Computer Science Applications
 - Databases and SQL
 - Computer Organization and Architecture
@@ -24,7 +25,7 @@
 - Image Processing and OpenCV
 - Evolution of Life
 
-### Reading 📖
+#### Reading 📖
 - Graph Theory by Trudeau
 - Atomic Habits by James Clear
 
