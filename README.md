@@ -3,30 +3,26 @@
 ### It's Siddharth
 
 #### About ⚡
-- I am a **Computer Science** student at [Shiv Nadar University](https://snu.edu.in)
+- I am a **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
 - I am a **React**, **Nodejs** and **Flutter** developer
+- I am fascinated by **Rust**
 
 #### Current Work 🔭
-- Frontend Developer Intern at **[Turtlewig](https://turtlewig.com)**
-- Open to client work/freelancing (contact information at the end)
+- Software Engineering Intern at **[Turtlewig](https://turtlewig.com)**
+  - Creating important user facing features on the frontend
+  - Creating functions on the backend for supplementing the user experience
+- Creating interesting side projects
 
 #### Current Interests 😄
 - **[Typescript](https://typescriptlang.org)**
 - **[Rust](https://rust-lang.org)**
-- **[GraphQL](https://graphql.org)**
-- **[Prisma](https://prisma.io)**
-- **Graph Theory**
 
 #### Learning 📓
-- Probability and Statistics with Reliability, Queuing and Computer Science Applications
-- Databases and SQL
-- Computer Organization and Architecture
-- Digital Electronics
-- Image Processing and OpenCV
-- Evolution of Life
+- Relational Databases and Postgres
+- Algorithms - Design and Analysis
 
 #### Reading 📖
-- Graph Theory by Trudeau
+- Introduction to Algorithms by Thomas H. Cormen
 - Atomic Habits by James Clear
 
 #### Reach Me 📫
