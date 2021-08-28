@@ -8,22 +8,25 @@
 - I am fascinated by **Rust**
 
 #### Current Work 🔭
-- Software Engineering Intern at **[Turtlewig](https://turtlewig.com)**
-  - Creating important user facing features on the frontend
-  - Creating functions on the backend for supplementing the user experience
-- Creating interesting side projects
+- Creating my personal blog and website
 
 #### Current Interests 😄
 - **[Typescript](https://typescriptlang.org)**
 - **[Rust](https://rust-lang.org)**
 
-#### Learning 📓
-- Relational Databases and Postgres
+#### Learning - this Semester📓
 - Algorithms - Design and Analysis
+- Inormation Retrieval
+- Natural Language Processing
+- Artificial Intelligence
+- Operating Systems
+- Introduction to Robotics
+- Software Design Lab
+- Engineering Science and Design
 
 #### Reading 📖
-- Introduction to Algorithms by Thomas H. Cormen
 - Atomic Habits by James Clear
+- Practical System Programming for Rust Developers by Prabhu Eshwarla
 
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
