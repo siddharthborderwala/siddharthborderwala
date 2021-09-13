@@ -9,10 +9,11 @@
 
 #### Current Work 🔭
 - Creating my personal blog and website
+- Working on Competitive Programming Skills (with C++)
 
 #### Current Interests 😄
-- **[Typescript](https://typescriptlang.org)**
-- **[Rust](https://rust-lang.org)**
+- **Asbtract Syntax Trees**
+- **[Rust Language](https://rust-lang.org)**
 
 #### Learning - this Semester📓
 - Algorithms - Design and Analysis
@@ -27,7 +28,9 @@
 #### Reading 📖
 - Atomic Habits by James Clear
 - Practical System Programming for Rust Developers by Prabhu Eshwarla
+- Guide to Competitive Programming by Antti Laaksonen
 
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
 - Phone Number: [+91 94269 44582](tel:+919426944582)
+- Website: www.codexsid.com
