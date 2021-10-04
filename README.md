@@ -3,13 +3,16 @@
 ### It's Siddharth
 
 #### About ⚡
-- I am a **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
-- I am a **React**, **Nodejs** and **Flutter** developer
-- I am fascinated by **Rust**
+- **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
+- **React**, **Nodejs** and **Rust** developer
+- **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
+- Growing open-source contributor
 
 #### Current Work 🔭
 - Creating my personal blog and website
 - Working on Competitive Programming Skills (with C++)
+- Studying Computer Science - 3rd year (out of 4)
+- Contributing to **[swc](swc.rs)**
 
 #### Current Interests 😄
 - **Asbtract Syntax Trees**
@@ -17,9 +20,9 @@
 
 #### Learning - this Semester📓
 - Algorithms - Design and Analysis
-- Inormation Retrieval
+- Information Retrieval
 - Natural Language Processing
-- Artificial Intelligence
+- Intorduction to Artificial Intelligence
 - Operating Systems
 - Introduction to Robotics
 - Software Design Lab
