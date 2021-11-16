@@ -6,13 +6,15 @@
 - **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
 - **React**, **Nodejs** and **Rust** developer
 - **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
-- Growing open-source contributor
+- Open-source contributor
 
 #### Current Work 🔭
 - Creating my personal blog and website
 - Working on Competitive Programming Skills (with C++)
 - Studying Computer Science - 3rd year (out of 4)
-- Contributing to **[swc](swc.rs)**
+- Contributing to **[swc](https://swc.rs)**
+- Building documentation for **[teafuljs](https://teaful-docs.vercel.app)**
+- Building a DatePicker library for react - **[sassy-datepicker](https://github.com/sassy-labs/datepicker)**
 
 #### Current Interests 😄
 - **Asbtract Syntax Trees**
@@ -30,8 +32,8 @@
 
 #### Reading 📖
 - Atomic Habits by James Clear
+- The 4-Hour Work Week by Timothy Ferris
 - Practical System Programming for Rust Developers by Prabhu Eshwarla
-- Guide to Competitive Programming by Antti Laaksonen
 
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
