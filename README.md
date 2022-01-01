@@ -10,7 +10,7 @@
 - Open-source contributor
   - Maintaining documentation for **[teafuljs](https://teaful-docs.vercel.app)**
   - Building a DatePicker library for react - **[sassy-datepicker](https://github.com/sassy-labs/datepicker)**
-  - Maintaining HTTP Codes reference for Humans [here](https://httpcode.vercel.app)
+  - Maintaining HTTP Codes reference for Humans **[here](https://httpcode.vercel.app)**
 
 #### Current Work 🔭
 - Improving my personal [blog](https://siddharthorderwala.com/blog) and website
@@ -20,7 +20,6 @@
 #### Current Interests 😄
 - **[Go Language](https://golang.org)**
 - **[Docker](https://docker.com)**
-- **[]**()
 
 #### Learning - this Semester📓
 - will be updated by 8th January 2022
