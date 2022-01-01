@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### It's [Siddharth](https://siddharthorderwala.com)
+### It's [Siddharth](https://siddharthborderwala.com)
 
 #### About ⚡
 - **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
@@ -13,7 +13,7 @@
   - Maintaining HTTP Codes reference for Humans **[here](https://httpcode.vercel.app)**
 
 #### Current Work 🔭
-- Improving my personal [blog](https://siddharthorderwala.com/blog) and website
+- Improving my personal [blog](https://siddharthborderwala.com/blog) and website
 - Working on Competitive Programming Skills
 - Studying Computer Science - 6th Semester (from 8)
 
@@ -32,4 +32,4 @@
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
 - Phone Number: [+91 94269 44582](tel:+919426944582)
-- Website: siddharthorderwala.com
+- Website: siddharthborderwala.com
