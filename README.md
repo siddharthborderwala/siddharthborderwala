@@ -22,7 +22,12 @@
 - **[Docker](https://docker.com)**
 
 #### Learning - this Semester📓
-- will be updated by 8th January 2022
+- Computer Networks
+- Software Engineering
+- Theory of Computation
+- Foundation of Data Sciences
+- Mathematical Modelling
+- Big Data-Modelling, Integration and Processing
 
 #### Reading 📖
 - Atomic Habits by James Clear
