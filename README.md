@@ -4,7 +4,7 @@
 
 #### About ⚡
 - **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
-- **React**, **Nextjs** and **Nodejs** developer
+- A **Full-Stack Javascript and Golang developer**
 - **Rustlang** enthusiast
 - **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
 - Open-source contributor
@@ -18,8 +18,8 @@
 - Studying Computer Science - 6th Semester (from 8)
 
 #### Current Interests 😄
-- **[Go Language](https://golang.org)**
 - **[Docker](https://docker.com)**
+- **Redis**
 
 #### Learning - this Semester📓
 - Computer Networks
