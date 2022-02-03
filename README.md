@@ -14,8 +14,8 @@
 
 #### Current Work 🔭
 - Improving my personal [blog](https://siddharthborderwala.com/blog) and website
-- Working on Competitive Programming Skills
-- Studying Computer Science - 6th Semester (from 8)
+- Solving **[AlgoExpert](https://algoexpert.io)** challenges
+- Studying Computer Science - 6th Semester (out of 8)
 
 #### Current Interests 😄
 - **[Docker](https://docker.com)**
@@ -32,7 +32,6 @@
 #### Reading 📖
 - Atomic Habits by James Clear
 - The 4-Hour Work Week by Timothy Ferris
-- Practical System Programming for Rust Developers by Prabhu Eshwarla
 
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
