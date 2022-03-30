@@ -13,6 +13,7 @@
   - Maintaining HTTP Codes reference for Humans **[here](https://httpcode.vercel.app)**
 
 #### Current Work 🔭
+- Building a **DAO** (Decentralized Autonomous Organization) using [NEAR](https://near.org/) protocol at [Crypto Capable](cryptocapable.community)
 - Improving my personal [blog](https://siddharthborderwala.com/blog) and website
 - Solving **[AlgoExpert](https://algoexpert.io)** challenges
 - Studying Computer Science - 6th Semester (out of 8)
@@ -20,6 +21,7 @@
 #### Current Interests 😄
 - **[Docker](https://docker.com)**
 - **Redis**
+- **Near Protocol**
 
 #### Learning - this Semester📓
 - Computer Networks
@@ -28,10 +30,6 @@
 - Foundation of Data Sciences
 - Mathematical Modelling
 - Big Data-Modelling, Integration and Processing
-
-#### Reading 📖
-- Atomic Habits by James Clear
-- The 4-Hour Work Week by Timothy Ferris
 
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
