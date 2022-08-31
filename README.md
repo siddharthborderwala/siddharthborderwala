@@ -4,9 +4,9 @@
 
 #### About ⚡
 - **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
-- A **Full-Stack Javascript and Golang developer**
-- **Rustlang** enthusiast
-- **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
+- A **Full-Stack Javascript, Typescript and Rustlang developer**
+- **Golang** and **Web3** enthusiast
+- Former **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
 - Open-source contributor
   - Building a DatePicker library for react - **[sassy-datepicker](https://github.com/sassy-labs/datepicker)**
     - 4.2K NPM Downloads in August 2022
