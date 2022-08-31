@@ -24,12 +24,7 @@
 - **Near Protocol**
 
 #### Learning - this Semester📓
-- Computer Networks
-- Software Engineering
-- Theory of Computation
-- Foundation of Data Sciences
-- Mathematical Modelling
-- Big Data-Modelling, Integration and Processing
+- Cloud Computing and Virtualization
 
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
