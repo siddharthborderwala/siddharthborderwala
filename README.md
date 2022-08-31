@@ -8,20 +8,21 @@
 - **Rustlang** enthusiast
 - **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
 - Open-source contributor
-  - Maintaining documentation for **[teafuljs](https://teaful-docs.vercel.app)**
   - Building a DatePicker library for react - **[sassy-datepicker](https://github.com/sassy-labs/datepicker)**
-  - Maintaining HTTP Codes reference for Humans **[here](https://httpcode.vercel.app)**
+    - 4.2K NPM Downloads in August 2022
+    - 3.2K NPM Downloads in July 2022
+  - Maintaining documentation for **[teafuljs](https://teaful-docs.vercel.app)** - a state management library
+  - Maintaining HTTP Codes reference for Humans **[here](https://httpcode.vercel.app)** - work in progress
 
 #### Current Work 🔭
-- Building a **DAO** (Decentralized Autonomous Organization) using [NEAR](https://near.org/) protocol at [Crypto Capable](cryptocapable.community)
 - Improving my personal [blog](https://siddharthborderwala.com/blog) and website
 - Solving **[AlgoExpert](https://algoexpert.io)** challenges
-- Studying Computer Science - 6th Semester (out of 8)
+- Studying Computer Science - 7th Semester (out of 8)
 
 #### Current Interests 😄
 - **[Docker](https://docker.com)**
-- **Redis**
-- **Near Protocol**
+- **Cloud Computing**
+- **AWS**
 
 #### Learning - this Semester📓
 - Cloud Computing and Virtualization
