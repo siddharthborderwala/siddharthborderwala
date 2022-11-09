@@ -5,7 +5,7 @@
 #### About ⚡
 - **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
 - A **Full-Stack Javascript, Typescript and Rustlang developer**
-- **Golang** and **Web3** enthusiast
+- **Web3** enthusiast
 - Former **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
 - Open-source contributor
   - Building a DatePicker library for react - **[sassy-datepicker](https://github.com/sassy-labs/datepicker)**
@@ -15,14 +15,14 @@
   - Maintaining HTTP Codes reference for Humans **[here](https://httpcode.vercel.app)** - work in progress
 
 #### Current Work 🔭
-- Improving my personal [blog](https://siddharthborderwala.com/blog) and website
+- Improving my personal **[blog](https://siddharthborderwala.com/blog)** and website
 - Solving **[AlgoExpert](https://algoexpert.io)** challenges
-- Studying Computer Science - 7th Semester (out of 8)
+- Studying Computer Science - Penultimate Semester
+- Building Cosmos Wallet at **[LeapWallet](https://leapwallet.io)**
 
 #### Current Interests 😄
 - **[Docker](https://docker.com)**
 - **Cloud Computing**
-- **AWS**
 
 #### Learning - this Semester📓
 - Cloud Computing and Virtualization
