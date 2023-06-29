@@ -3,29 +3,28 @@
 ### It's [Siddharth](https://siddharthborderwala.com)
 
 #### About ⚡
-- **Computer Science** student (class of 2023) at [Shiv Nadar University](https://snu.edu.in)
-- A **Full-Stack Javascript, Typescript and Rustlang developer**
-- **Web3** enthusiast
+- A **Full-Stack Developer**
+- Building Cosmos Chain Wallet at **[LeapWallet.io](https://leapwallet.io)**
+- **Computer Science** graduate from [Shiv Nadar University](https://snu.edu.in)
 - Former **Development Lead** at [Developer Students Club SNU](https://gdsc.community.dev/shiv-nadar-university-greater-noida)
-- Open-source contributor
-  - Building a DatePicker library for react - **[sassy-datepicker](https://github.com/sassy-labs/datepicker)**
-    - 4.2K NPM Downloads in August 2022
-    - 3.2K NPM Downloads in July 2022
-  - Maintaining documentation for **[teafuljs](https://teaful-docs.vercel.app)** - a state management library
-  - Maintaining HTTP Codes reference for Humans **[here](https://httpcode.vercel.app)** - work in progress
+- Open-Source Maintainer
+  - DatePicker library for react - **[sassy-datepicker](https://github.com/sassy-labs/datepicker)**
+  - Cosmos Chain Name/Address Resolver - **[name-matcha](https://github.com/leapwallet/name-matcha)**
+ 
+#### I Speak
+- English
+- Hindi
+- Gujarati
 
-#### Current Work 🔭
-- Improving my personal **[blog](https://siddharthborderwala.com/blog)** and website
-- Solving **[AlgoExpert](https://algoexpert.io)** challenges
-- Studying Computer Science - Penultimate Semester
-- Building Cosmos Wallet at **[LeapWallet](https://leapwallet.io)**
-
-#### Current Interests 😄
-- **[Docker](https://docker.com)**
-- **Cloud Computing**
-
-#### Learning - this Semester📓
-- Cloud Computing and Virtualization
+#### I Know and Use
+- Javascript
+- Typescript
+- HTML, CSS & SASS
+- React
+- Node
+- Redis
+- Postgres
+- Prisma
 
 #### Reach Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
