@@ -30,5 +30,4 @@
 
 #### Contact Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
-- Phone Number: [+91 94269 44582](tel:+919426944582)
 - Website: [siddharthborderwala.com](https://siddharthborderwala.com)
