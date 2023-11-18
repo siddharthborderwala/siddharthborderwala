@@ -25,8 +25,8 @@
 
 #### I Speak 📣
 - English
-- Hindi
 - Gujarati
+- Hindi
 
 #### Contact Me 📫
 - Mail: [siddharthborderwala@gmail.com](mailto:siddharthborderwala@gmail.com)
