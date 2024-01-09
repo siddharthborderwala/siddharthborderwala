@@ -17,11 +17,13 @@
 #### I Know and Use 🧑🏻‍💻
 - HTML, CSS & SASS
 - JS and TS
-- React
+- React, Nextjs
 - Node
+- Rust
+- Golang
 - Redis
 - SQL
-- Rust
+
 
 #### I Speak 📣
 - English
