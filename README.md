@@ -1,6 +1,6 @@
-#### It's [Siddharth](https://siddharthborderwala.com)
+#### Hi, I am [Siddharth](https://siddharthborderwala.com)
 
-#### About Me 🔊
+#### About Me
 - Full-Stack Developer
 - Building the Best Cosmos Wallet at **[LeapWallet.io](https://leapwallet.io)**
 - Open Source Enthusiast
