@@ -1,14 +1,16 @@
-#### Hi, I am [Siddharth](https://siddharthborderwala.com)
+### Hey! I am Siddharth
+
+I love building high quality software that
+- Solves real world problems
+- Offers its users a delightful experience
 
 #### About Me
-- Full-Stack Developer
-- Building the Best Cosmos Wallet at **[LeapWallet.io](https://leapwallet.io)**
-- Open Source Enthusiast
-- **Computer Science** graduate from [Shiv Nadar University](https://snu.edu.in)
+- Full-Stack Engineer and Open Source Enthusiast
+- Fixing the Cosmos Interchain UX at [LeapWallet.io](https://leapwallet.io)
+- Bachelor of Technology in Computer Science & Engg from [Shiv Nadar University](https://snu.edu.in)
 
-#### My Skills
+#### My expertise (in order)
 
 - Frontend
+- Developer SDKs
 - Backend
-- SDKs
-- Smart Contracts
