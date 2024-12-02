@@ -23,7 +23,7 @@ I am from Surat, India 🇮🇳
 - HTML, CSS, JS, TS
 - React, Next, CSS-in-JS
 - Nodejs, Deno and Bun
-- Familiar with Python, Golang, Rust and Ruby
+- Comfortable working with Python, Golang, Rust and Ruby
 
 ### Tools & Apps
 
