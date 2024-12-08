@@ -1,8 +1,8 @@
 ## Hey! I am Siddharth
 
 I love building high quality software that
-- Solves real world problems
-- Offers users a delightful experience
+- Offers delightful experience
+- Solves user's problem(s)
 
 I am from Surat, India 🇮🇳
 
