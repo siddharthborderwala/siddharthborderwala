@@ -8,8 +8,8 @@ I am from Surat, India 🇮🇳
 
 ### About Me
 - Full-Stack Engineer and Open Source Enthusiast
-- Building [Peach](https://mypeach.in) - buy ready-to-print TIFF textile design files
-- Fixing the Cosmos Interchain UX at [LeapWallet.io](https://leapwallet.io)
+- Trial-ed at [Gumroad](https://gumroad.com)
+- Prev at [Leap Wallet](https://leapwallet.io)
 - B.Tech in Computer Science & Engg from [Shiv Nadar University](https://snu.edu.in)
 
 ### My expertise (in order)
@@ -31,4 +31,6 @@ I am from Surat, India 🇮🇳
 - Linear
 - Apple Notes
 - Microsoft To Do
-- Claude
+- Claude, ChatGPT
+- GitHub
+- Mac
