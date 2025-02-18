@@ -7,7 +7,7 @@ I love building high quality software that
 I am from Surat, India 🇮🇳
 
 ### About Me
-- Full-Stack Engineer and Open Source Enthusiast
+- Full-Stack Engineer and Open Source Contributor
 - Trial-ed at [Gumroad](https://gumroad.com)
 - Prev at [Leap Wallet](https://leapwallet.io)
 - B.Tech in Computer Science & Engg from [Shiv Nadar University](https://snu.edu.in)
