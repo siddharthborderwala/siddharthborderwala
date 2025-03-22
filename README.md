@@ -8,7 +8,6 @@ I am from Surat, India 🇮🇳
 
 ### About Me
 - Full-Stack Engineer and Open Source Contributor
-- Trial-ed at [Gumroad](https://gumroad.com)
 - Prev at [Leap Wallet](https://leapwallet.io)
 - B.Tech in Computer Science & Engg from [Shiv Nadar University](https://snu.edu.in)
 
@@ -23,14 +22,4 @@ I am from Surat, India 🇮🇳
 - HTML, CSS, JS, TS
 - React, Next, CSS-in-JS
 - Nodejs, Deno and Bun
-- Comfortable working with Python, Golang, Rust and Ruby
-
-### Tools & Apps
-
-- Cursor/VSCode
-- Linear
-- Apple Notes
-- Microsoft To Do
-- Claude, ChatGPT
-- GitHub
-- Mac
+- Comfortable working with Python, Golang, and Rust
