@@ -3,7 +3,7 @@
 ### I am Siddharth
 
 - Design Focused Full-Stack Engineer
-- Building [Lucid Editor](https://getlucid.app) 🌸
+- Building [Bloom](https://trybloom.ai) 🌸
 - Prev at [Leap Wallet](https://leapwallet.io), CryptoCapable, Turtlewig
 - B.Tech in Computer Science & Engg from [Shiv Nadar University](https://snu.edu.in)
 
