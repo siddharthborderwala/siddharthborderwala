@@ -3,7 +3,7 @@
 ### I am Siddharth
 
 - Design Focused Full-Stack Engineer
-- Building SaaS products and customer software solutions for SMBs
+- Building SaaS products and customer software solutions
 - Prev at [Leap Wallet](https://leapwallet.io), Crypto Capable, Turtlewig
 - Bachelors in Computer Science & Engineering from [Shiv Nadar University IoE](https://snu.edu.in)
 
