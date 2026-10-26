@@ -2,8 +2,8 @@
 
 ### I am Siddharth
 
-- Design Engineer; Building [Rainbrand](https://rainbrand.com) ⚡
-- Prev at [Leap Wallet](https://leapwallet.io), Crypto Capable, Turtlewig
+- Design Engineer; Building [Rainbrand](https://rainbrand.com) YC P26.
+- Prev at Leap Wallet, Crypto Capable, Turtlewig
 - Bachelors in Computer Science & Engineering from [Shiv Nadar University IoE](https://snu.edu.in)
 
 ### About Me
