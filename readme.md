@@ -2,8 +2,7 @@
 
 ### I am Siddharth
 
-- Design Focused Full-Stack Engineer
-- Building SaaS products and customer software solutions
+- Design Engineer; Building [Rainbrand](https://rainbrand.com) ⚡
 - Prev at [Leap Wallet](https://leapwallet.io), Crypto Capable, Turtlewig
 - Bachelors in Computer Science & Engineering from [Shiv Nadar University IoE](https://snu.edu.in)
 
